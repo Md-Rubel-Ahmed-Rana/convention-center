@@ -1,0 +1,13 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+li{
+    list-style:none;
+}
+
+#third-item{
+    border-radius: 20px;
+}
+
