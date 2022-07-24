@@ -7,7 +7,10 @@ li{
     list-style:none;
 }
 
-#third-item{
-    border-radius: 20px;
+.third-item{
+    border-radius: 20px !important;
 }
 
+#package{
+    margin-bottom: 50px;
+}
